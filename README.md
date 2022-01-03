@@ -11,11 +11,12 @@ Cara Instalasi Program Laravel Setelah Di Download ZIP :
 3. Copy file yg sudah di extract ke xampp\htdocs.
 4. Ubah/rename file .env.example menjadi .env ( PASTIKAN tanpa .example ).
 5. Buka Command Prompt.
-6. Jalankan Composer install / update.
+6. Jalankan Composer install / update, jangan lupa composer di update.
 7. Lalu ketikkan script berikut:
 
 - cd\
 - cd xampp\htdocs\uas-pweb-idzaa-master
+- composer update
 - php artisan key:generate
 - php artisan serve
 - http://127.0.0.1:8000
