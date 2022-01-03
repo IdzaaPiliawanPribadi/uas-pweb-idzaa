@@ -9,10 +9,11 @@
 <p>3. Copy file yg sudah di extract ke xampp\htdocs.</p>
 <p>4. Ubah/rename file .env.example menjadi .env ( PASTIKAN tanpa .example ).</p>
 <p>5. Buka Command Prompt.</p>
-<p>6. Jalankan Composer install / update.</p>
+<p>6. Jalankan Composer install / update. Pastikan Composer di Update</p>
 <p>7. Lalu ketikkan script berikut:</p>
 <p>cd\</p>
 <p>cd xampp\htdocs\uas-pweb-idzaa-master</p>
+<p>composer update</p>
 <p>php artisan key:generate</p>
 <p>php artisan serve</p>
 <p>http://127.0.0.1:8000</p>
