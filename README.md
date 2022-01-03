@@ -23,3 +23,4 @@ Cara Instalasi Program Laravel Setelah Di Download ZIP :
 
 8. Copy http://127.0.0.1:8000 ke browser.
 9. Pastikan APP_KEY pada .env telah digenerate.
+Done
