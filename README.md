@@ -14,11 +14,11 @@ Cara Instalasi Program Laravel Setelah Di Download ZIP :
 6. Jalankan Composer install / update.
 7. Lalu ketikkan script berikut:
 
-cd\
-cd xampp\htdocs\uas-pweb-idzaa-master
-php artisan key:generate
-php artisan serve
-http://127.0.0.1:8000
+- cd\
+- cd xampp\htdocs\uas-pweb-idzaa-master
+- php artisan key:generate
+- php artisan serve
+- http://127.0.0.1:8000
 
 8. Copy http://127.0.0.1:8000 ke browser.
 9. Pastikan APP_KEY pada .env telah digenerate.
