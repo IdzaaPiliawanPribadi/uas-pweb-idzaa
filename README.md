@@ -1,3 +1,7 @@
+<p>PASTIKAN MEMBUKA LINK INI MENGGUNAKAN BROWSER LAPTOP AGAR DAPAT DOWNLOAD ZIPNYA</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Cara Instalasi Program Laravel Setelah Di Download ZIP :</p>
 <p></p>
 <p>1. Download Source Code.</p>
